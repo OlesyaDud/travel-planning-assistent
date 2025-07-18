@@ -1,0 +1,96 @@
+[
+  {
+    "content": "Seaside Resort, a luxury beachfront hotel in Miami.",
+    "metadata": {
+      "price": 250,
+      "currency": "USD",
+      "location": "Miami",
+      "check_in": "2025-08-10",
+      "check_out": "2025-08-15",
+      "type": "hotel",
+      "cuisine": null
+    },
+    "embedding": null
+  },
+  {
+    "content": "Casa Mexicana, authentic Mexican cuisine in Miami.",
+    "metadata": {
+      "price": 40,
+      "currency": "USD",
+      "location": "Miami",
+      "type": "restaurant",
+      "cuisine": "Mexican",
+      "check_in": null,
+      "check_out": null
+    },
+    "embedding": null
+  },
+  {
+    "content": "Everglades National Park, a nature reserve with wildlife and hiking trails.",
+    "metadata": {
+      "price": 15,
+      "currency": "USD",
+      "location": "Miami",
+      "type": "attraction",
+      "category": "nature",
+      "cuisine": null,
+      "check_in": null,
+      "check_out": null
+    },
+    "embedding": null
+  },
+  {
+    "content": "Historic Fort Museum, exploring Miami’s rich history.",
+    "metadata": {
+      "price": 20,
+      "currency": "USD",
+      "location": "Miami",
+      "type": "attraction",
+      "category": "history",
+      "cuisine": null,
+      "check_in": null,
+      "check_out": null
+    },
+    "embedding": null
+  },
+  {
+    "content": "Mountain View Lodge, cozy stay near Denver with scenic views.",
+    "metadata": {
+      "price": 180,
+      "currency": "USD",
+      "location": "Denver",
+      "check_in": "2025-09-10",
+      "check_out": "2025-09-15",
+      "type": "hotel",
+      "cuisine": null
+    },
+    "embedding": null
+  },
+  {
+    "content": "Rocky’s Diner, American classics in Denver.",
+    "metadata": {
+      "price": 25,
+      "currency": "USD",
+      "location": "Denver",
+      "type": "restaurant",
+      "cuisine": "American",
+      "check_in": null,
+      "check_out": null
+    },
+    "embedding": null
+  },
+  {
+    "content": "Boston Art Museum, cultural hub with contemporary exhibits.",
+    "metadata": {
+      "price": 18,
+      "currency": "USD",
+      "location": "Boston",
+      "type": "attraction",
+      "category": "culture",
+      "cuisine": null,
+      "check_in": null,
+      "check_out": null
+    },
+    "embedding": null
+  }
+]
